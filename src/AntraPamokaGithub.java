@@ -1,8 +1,10 @@
 public class AntraPamokaGithub
 {
-    public static void Main(String[] args)
+    public static void main(String[] args)
     {
-
+        int x = 5;
+        int y = 7;
+        System.out.println(x + y);
 
     }
 }
